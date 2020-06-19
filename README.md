@@ -1,6 +1,6 @@
 # Graph visualization
 
-Jupyter notebooks on graph visualization presented for the **Scientific visualization** course of the **Università degli studi di Milano**.
+Jupyter notebooks on graph visualization presented for the **Scientific visualization** course attended at the **Università degli studi di Milano**.
 
 
 ![alt text](https://github.com/bitwise-guy/graph-visualization/blob/master/images/got.PNG?raw=true)
